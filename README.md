@@ -6,10 +6,6 @@ Sobre o Projeto
 Resultado do primeiro desafio do programa ONE, da Oracle em parceria com a Alura:
 - Decodificador de texto com design responsivo feito em HTML, CSS e JavaScript.
 
-<p align="center" >
-     <img width="600" heigth="600" src="https://user-images.githubusercontent.com/53119511/182502484-45f07927-fa85-4b5a-b42a-6e9164b75d25.JPG">
-</p>
-
 Chave de Criptografia
 ---
 
@@ -36,7 +32,7 @@ Extra
 
 GitHub Pages
 
---> https://moisesventtura.github.io/decodificador-alura/
+--> https://github.com/marcello-abreu
 
 Badge pela Conclusão do Desafio
 ---
